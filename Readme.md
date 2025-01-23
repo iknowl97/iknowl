@@ -10,9 +10,9 @@
 
 ## LANGUAGES
 
-- Georgian
-- Russian
-- English
+- Georgian - Advanced
+- Russian - Advanced
+- English - Advanced
 
 ## SKILLS
 
