@@ -7,12 +7,20 @@
 - **Phone:** +995 577 25 03 39
 - **Email:** gioamiridze@live.com
 - **Address:** Georgia, Tbilisi: Kvilividze 35
+- **Date of Birth:** 6 October 1997
 
 ## LANGUAGES
 
-- Georgian - Advanced
-- Russian - Advanced
-- English - Advanced
+- Georgian (Fluent)
+- Russian (Fluent)
+- English (Professional Limited, Speaking and Technical)
+
+## PERSONAL QUALITIES AND MOTIVATION
+
+- Over 11 years of experience in system administration and IT support management.
+- Dedicated and reliable, constantly learning new technologies and implementing modern infrastructure solutions.
+- Motivated to improve company performance through technological projects.
+- Eager to gain new knowledge and stay up-to-date in the fast-paced IT world.
 
 ## SKILLS
 
@@ -67,12 +75,3 @@
 
 - Certificate in Linux System Administration
 - Certificate in IT Technologies and Windows System Management
-
-## PERSONAL QUALITIES AND MOTIVATION
-
-- Over 11 years of experience in system administration and IT support management.
-- Dedicated and reliable, constantly learning new technologies and implementing modern infrastructure solutions.
-- Motivated to improve company performance through technological projects.
-- Eager to gain new knowledge and stay up-to-date in the fast-paced IT world.
-
-**Date of Birth:** 6 October 1997
