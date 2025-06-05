@@ -2,7 +2,7 @@
 
 Senior System Admin & IT Lead | Driving Innovation through AI & Strategic Automation 🤖🚀
 
-.briefcase: Currently at **FINA** | 📍 Based in **Tbilisi, Georgia**
+Currently at **FINA** | 📍 Based in **Tbilisi, Georgia**
 
 ---
 
