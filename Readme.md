@@ -25,14 +25,27 @@ My name is Giorgi Amiridze, and I've dedicated over 12 years of my life to IT �
 
 ---
 
-## Work Experience Highlights
+## Professional Experience
 
-Throughout my career at FINA, I've led significant initiatives and managed complex environments:
+**IT Manager / System Administrator**
+Ltd. FINA – Georgian Software and IT Services Company
+Tbilisi, Georgia | 2013 – Present
 
-- Led the building and management of a private datacenter from scratch, growing infrastructure to support **70+ physical and 300+ virtual servers**.
-- Supported hundreds of companies across Georgia with critical systems.
-- Proposed and led the migration of our infrastructure to **UGT Cloud**, ensuring **business continuity, cost efficiency, and disaster recovery**.
-- Continuously planned, scaled, optimized, secured, and documented IT operations while managing daily tasks.
+- Lead the system administration of local and cloud-based infrastructure, including Windows Server, SQL, and IIS
+- Manage and optimize proprietary Windows Forms applications
+- Supervise the IT support team, delivering high-level technical support to clients in Georgia and internationally
+- Oversee the management of office infrastructure including PCs, local servers, printers, and VoIP systems
+- Collaborate on advanced IT projects, solving technical challenges and deploying infrastructure solutions
+
+**System and Network Administrator**
+Ltd. Datacenter (A FINA-Owned Facility)
+Tbilisi, Georgia | 2015 – 2023
+
+- Managed data center infrastructure including 70+ physical servers and over 320 virtual machines (VMware/Hyper-V)
+- Handled system administration of both Windows and Linux servers, ensuring high availability and security
+- Led the technical support team, providing on-site and remote support for server hosting clients
+- Administered network equipment and oversaw cloud services and virtualization platforms
+- Played a key role in migrating FINA infrastructure to the UGT Cloud
 
 ---
 
@@ -71,6 +84,23 @@ Here are a few projects from my GitHub profile:
 | Georgian Europian Academy                    | Georgian Europian Academy             |
 | Scientific Cyber Security Association - SCSA | Scientific Cyber Security Association |
 | Intuitive Products by Imitating Physicality  | N/A                                   |
+
+---
+
+## Education
+
+- **Georgian European Academy** – Tbilisi, Georgia
+  Certificate in IT Technologies and Windows System Management | 2012 – 2013
+- **37 Public School** – Tbilisi, Georgia
+  High School Diploma | 2003 – 2012
+
+---
+
+## Languages
+
+- Georgian – Native
+- Russian – Fluent
+- English – Professional Working Proficiency
 
 ---
 
