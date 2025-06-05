@@ -4,6 +4,8 @@ Senior System Admin & IT Lead | Driving Innovation through AI & Strategic Automa
 
 Currently at **FINA** | 📍 Based in **Tbilisi, Georgia**
 
+Welcome to my GitHub profile! 👋
+
 ---
 
 ## Connect with me:
@@ -51,7 +53,7 @@ Tbilisi, Georgia | 2015 – 2023
 
 ## Skill Set
 
-Here are some of the technologies and tools I work with:
+Here's a look at some of the technologies and tools I work with regularly:
 
 | Category                        | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,9 +67,39 @@ Here are some of the technologies and tools I work with:
 
 ---
 
+## What I'm Currently Doing / Exploring
+
+Beyond daily IT operations, I am deeply involved in AI and automation:
+
+- Experimenting with local AI models using **LM Studio, Ollama, and Hugging Face**.
+- Building workflows with **n8n** to automate IT support and internal processes, including integrating models like **OpenAI** into helpdesk workflows.
+- Designing lightweight internal **AI assistants**.
+- Actively studying **agentic architectures** and experimenting with frameworks like **Autogen, CrewAI, and LangChain**.
+- Exploring cloud optimization and self-hosted solutions.
+
+---
+
+## AI Philosophy & Practice
+
+My passion for IT has recently expanded into the world of AI and automation. I see AI not as a replacement, but as a powerful ally that enhances human potential. I actively explore how AI can streamline workflows, solve complex problems, and add real business value.
+
+This includes diving into:
+
+- **Vibe-Coding:** A focus on intuitive coding and leveraging AI-assisted tools for a more fluid development experience.
+- **Prompt Engineering:** Crafting precise and effective prompts to unlock the full potential of AI models and agents.
+- Building automated workflows and internal AI assistants.
+
+---
+
+## Learning & Growth
+
+I am a driven learner who thrives on exploring new technologies and building solutions. My journey has been defined by a hands-on, problem-solving approach, and I am always ready to contribute and grow in the ever-evolving tech landscape, particularly in the areas of AI, automation, and cloud optimization.
+
+---
+
 ## Featured Projects
 
-Here are a few projects from my GitHub profile:
+Here are a few notable projects from my GitHub profile:
 
 | Project Name                         | Technologies | Link                                                     |
 | :----------------------------------- | :----------- | :------------------------------------------------------- |
@@ -110,31 +142,6 @@ Here are a few projects from my GitHub profile:
 
 ---
 
-## What I'm Currently Doing / Exploring
-
-Beyond daily IT operations, I am deeply involved in AI and automation:
-
-- Experimenting with local AI models using **LM Studio, Ollama, and Hugging Face**.
-- Building workflows with **n8n** to automate IT support and internal processes.
-- Integrating models like **OpenAI** into helpdesk workflows.
-- Designing lightweight internal **AI assistants**.
-- Actively studying **agentic architectures**.
-- Experimenting with frameworks like **Autogen, CrewAI, and LangChain**.
-- Exploring cloud optimization and self-hosted solutions.
-
----
-
-## What Defines Me
-
-Based on my journey and experiences, here are some core attributes:
-
-- **Responsible:** If I commit, I deliver.
-- **Resilient:** I handle pressure well, multitask effortlessly, and don't burn out easily.
-- **Order-Focused:** I thrive in chaos and bring order through documentation, automation, and strategy.
-- **Driven Learner:** I love to learn, build, and am always ready to contribute and grow.
-
----
-
 <details>
 <summary>GitHub Stats & Activity</summary>
 
@@ -168,3 +175,5 @@ Based on my journey and experiences, here are some core attributes:
 I didn't go to a fancy university. My classroom was the office, my teachers were real-world problems, and my motivation came from seeing how my work made systems stronger, users happier, and companies more agile.
 
 [Back to Top](#hi-im-giorgi-amiridze-iknowl97)
+
+Thanks for stopping by! 😊
