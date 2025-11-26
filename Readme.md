@@ -1,186 +1,269 @@
-# Hi, I'm Giorgi Amiridze (@iknowl97) - The IT Ninja 🥷
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Giorgi%20Amiridze&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20IT%20Ninja%20%F0%9F%A5%B7&descAlignY=55&descAlign=50" alt="Giorgi Amiridze Header" width="100%"/>
+</div>
 
-Senior System Admin & IT Lead | Driving Innovation through AI & Strategic Automation 🤖🚀
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Senior+System+Admin+%26+IT+Lead;Driving+Innovation+through+AI;Strategic+Automation+Expert;Based+in+Tbilisi%2C+Georgia+%F0%9F%87%AC%F0%9F%87%EA" alt="Typing SVG" />
+  </a>
+</div>
 
-Currently at **FINA** | 📍 Based in **Tbilisi, Georgia**
+<div align="center">
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iknowl1)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/995577250239)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gioamiridze/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gioamiridze@live.com)
 
-Welcome to my GitHub profile! 👋
+</div>
 
----
+<br/>
 
-## Connect with me:
-
-Feel free to reach out through any of the platforms below:
-
-<p align="center">
-  <a href="https://t.me/iknowl1" target="_blank"><img src="https://img.shields.io/badge/-iknowl1-afeeee?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-  <a href="tel:+995577250239"><img src="https://img.shields.io/badge/-+995%20577%2025--02--39-98fb98?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge"/></a>
-  <a href="https://www.linkedin.com/in/gioamiridze/" target="_blank"><img src="https://img.shields.io/badge/-Giorgi%20Amiridze-a7c7e4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:gioamiridze@live.com"><img src="https://img.shields.io/badge/-gioamiridze@live.com-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-</p>
-
----
-
-## About Me
-
-My name is Giorgi Amiridze, and I've dedicated over 12 years of my life to IT — not just as a profession, but as a mission. My story begins in Tbilisi, Georgia, when I was just 14 years old and joined FINA, a local software company. I didn't start from a management role or a well-equipped office; I started from cables, system errors, and troubleshooting. Learning from the best engineers and deep research, I quickly became adept at solving real-world problems. By the time I turned 15, I was already handling client issues hands-on, multitasking under pressure to keep critical systems running. This hands-on, problem-solving approach has defined my career.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iknowl97&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ---
 
-## Professional Experience
+## 👨‍💻 About Me
 
-**IT Manager / System Administrator**
-Ltd. FINA – Georgian Software and IT Services Company
-Tbilisi, Georgia | 2013 – Present
+> _"I didn't start from a management role or a well-equipped office; I started from cables, system errors, and troubleshooting."_
 
-- Lead the system administration of local and cloud-based infrastructure, including Windows Server, SQL, and IIS
-- Manage and optimize proprietary Windows Forms applications
-- Supervise the IT support team, delivering high-level technical support to clients in Georgia and internationally
-- Oversee the management of office infrastructure including PCs, local servers, printers, and VoIP systems
-- Collaborate on advanced IT projects, solving technical challenges and deploying infrastructure solutions
+My name is **Giorgi Amiridze**, and I've dedicated over **12 years** to IT — not just as a profession, but as a mission. My journey began in **Tbilisi, Georgia**, at the age of 14, diving headfirst into the world of software and hardware at **FINA**.
 
-**System and Network Administrator**
-Ltd. Datacenter (A FINA-Owned Facility)
-Tbilisi, Georgia | 2015 – 2023
-
-- Managed data center infrastructure including 70+ physical servers and over 320 virtual machines (VMware/Hyper-V)
-- Handled system administration of both Windows and Linux servers, ensuring high availability and security
-- Led the technical support team, providing on-site and remote support for server hosting clients
-- Administered network equipment and oversaw cloud services and virtualization platforms
-- Played a key role in migrating FINA infrastructure to the UGT Cloud
+I specialize in **System Administration**, **IT Leadership**, and increasingly, **AI & Automation**. I believe in using technology to solve real-world problems, streamline workflows, and enhance human potential.
 
 ---
 
-## Skill Set
+## 🛠️ Tech Stack & Skills
 
-Here's a look at some of the technologies and tools I work with regularly:
+<div align="center">
 
-| Category                        | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| :------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Operating Systems**           | <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://img.shields.io/badge/-Windows-a7c7e4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/></a> <a href="https://docs.microsoft.com/en-us/windows-server/" target="_blank"><img src="https://img.shields.io/badge/-Windows%20Server-a7c7e4?style=for-the-badge&logo=windows%20server&logoColor=white" alt="Windows Server Badge"/></a> <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/-Linux-ffffb3?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/></a>                                                                                                                                                                                                                                                                                               |
-| **Databases**                   | <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://img.shields.io/badge/-SQL%20Server-ffb6c1?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server Badge"/></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-b3ffb3?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Web Servers**                 | <a href="https://www.iis.net/" target="_blank"><img src="https://img.shields.io/badge/-IIS-ffffb3?style=for-the-badge&logo=iis&logoColor=black" alt="IIS Badge"/></a> <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/-NGINX-ffd8b1?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX Badge"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Languages & Scripting**       | <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-98fb98?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/></a> <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.shields.io/badge/-PowerShell-a7c7e4?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/-Bash-98fb98?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/-C%23-98fb98?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/></a>                                                                                                                     |
-| **Virtualization & Containers** | <a href="https://www.vmware.com/" target="_blank"><img src="https://img.shields.io/badge/-VMware-d3b5e5?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Badge"/></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-a7c7e4?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/></a> <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/" target="_blank"><img src="https://img.shields.io/badge/-Hyper--V-d3b5e5?style=for-the-badge&logo=hyperv&logoColor=white" alt="Hyper-V Badge"/></a>                                                                                                                                                                                                                                                                                                                    |
-| **Cloud Platforms**             | <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-Azure-a7c7e4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/></a> <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/-AWS-ffffb3?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="AWS Badge"/></a> <a href="https://ugtcloud.ge/" target="_blank"><img src="https://img.shields.io/badge/-UGT%20Cloud-d3b5e5?style=for-the-badge&logo=cloud&logoColor=white" alt="UGT Cloud Badge"/></a>                                                                                                                                                                                                                                                                                                                                                      |
-| **Tools**                       | <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-Visual%20Studio-a7c7e4?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Badge"/></a> <a href="https://mobaxterm.mobatek.net/" target="_blank"><img src="https://img.shields.io/badge/-MobaXterm-a7c7e4?style=for-the-badge&logo=mobaxterm&logoColor=white" alt="MobaXterm Badge"/></a> <a href="https://remotedesktopmanager.com/" target="_blank"><img src="https://img.shields.io/badge/-RDM-d3b5e5?style=for-the-badge&logo=remotedesktopmanager&logoColor=white" alt="RDM Badge"/></a>                                                                                                                                                                                                                                                                                             |
-| **AI & Automation Tools**       | <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/-n8n-98fb98?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge"/></a> <img src="https://img.shields.io/badge/-VectorStores-ffb6c1?style=for-the-badge&logo=typesense&logoColor=white" alt="VectorStores Badge"/> <img src="https://img.shields.io/badge/-LLMs-ffffb3?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs Badge"/> <img src="https://img.shields.io/badge/-MCP%20Servers-a7c7e4?style=for-the-badge&logo=cloud%20foundry&logoColor=white" alt="MCP Servers Badge"/> <img src="https://img.shields.io/badge/-AI%20Tools-d3b5e5?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Tools Badge"/> <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python%20Apps-98fb98?style=for-the-badge&logo=python&logoColor=white" alt="Python Apps Badge"/></a> |
-| **AI Practices**                | <img src="https://img.shields.io/badge/-Prompt%20Engineering-a7c7e4?style=for-the-badge&logo=deeplearning.ai&logoColor=white" alt="Prompt Engineering Badge"/> <img src="https://img.shields.io/badge/-Agent%20Deployments-d3b5e5?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agent Deployments Badge"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Category**          | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖥️ OS**             | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                                  |
+| **🗄️ Databases**      | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)                                                                                                                                                                              |
+| **🌐 Web Servers**    | ![IIS](https://img.shields.io/badge/IIS-000000?style=for-the-badge&logo=iis&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)                                                                                                                                                                                                                              |
+| **💻 Languages**      | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| **☁️ Cloud**          | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![UGT Cloud](https://img.shields.io/badge/UGT%20Cloud-0e75b6?style=for-the-badge&logo=cloud&logoColor=white)                                                                                                |
+| **🤖 AI & Auto**      | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)                                                                                                         |
+| **🐳 Virtualization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)                                                                                                      |
 
----
-
-## What I'm Currently Doing / Exploring
-
-Beyond daily IT operations, I am deeply involved in AI and automation. My passion lies in developing and releasing simple, yet smart, workflows that integrate with my internal and external apps, services, and data.
-
-- Experimenting with local AI models using **LM Studio, Ollama, and Hugging Face**.
-- Building workflows with **n8n** to automate IT support and internal processes, including integrating models like **OpenAI** into helpdesk workflows.
-- Designing lightweight internal **AI assistants**.
-- Actively studying **agentic architectures** and experimenting with frameworks like **Autogen, CrewAI, and LangChain**.
-- Exploring cloud optimization and self-hosted solutions.
-
-I also built a personal IT Sysadmin assistant for my FINA IT Team. This assistant helps monitor servers and notify the team about issues, updates, and important information. It also provides AI-recommended default actions; some safe actions are applied directly, while others require manual application with informative suggestions based on our specific work requirements.
+</div>
 
 ---
 
-## AI Philosophy & Practice
+## 💼 Professional Experience
 
-My passion for IT has recently expanded into the world of AI and automation. I see AI not as a replacement, but as a powerful ally that enhances human potential. I actively explore how AI can streamline workflows, solve complex problems, and add real business value.
+### **IT Manager / System Administrator**
 
-This includes diving into:
+**Ltd. FINA** | _2013 – Present_
 
-- **Vibe-Coding:** A focus on intuitive coding and leveraging AI-assisted tools for a more fluid development experience.
-- **Prompt Engineering:** Crafting precise and effective prompts to unlock the full potential of AI models and agents.
-- Building automated workflows and internal AI assistants.
-- I believe that information exchange, data integration, and data sharing are crucial for today, not only in technology but also in human relations, future implementations, and vision.
+- 🔹 Lead system administration (Windows Server, SQL, IIS).
+- 🔹 Manage proprietary Windows Forms applications.
+- 🔹 Supervise IT support team & office infrastructure.
 
----
+### **System and Network Administrator**
 
-## Learning & Growth
+**Ltd. Datacenter** | _2015 – 2023_
 
-I am a driven learner who thrives on exploring new technologies and building solutions. My journey has been defined by a hands-on, problem-solving approach, and I am always ready to contribute and grow in the ever-evolving tech landscape, particularly in the areas of AI, automation, and cloud optimization.
-
----
-
-## Featured Projects
-
-Here are a few notable projects from my GitHub profile:
-
-| Project Name                         | Technologies | Link                                                     |
-| :----------------------------------- | :----------- | :------------------------------------------------------- |
-| AI Travel Agent (iknowl97.github.io) | HTML         | [Link](https://iknowl97.github.io/AI-Travel-Agent/)      |
-| Deploying n8n on Render              | Shell        | [Link](https://github.com/iknowl97/n8n-render)           |
-| iknowl_gemini_TG_bot                 | Python       | [Link](https://github.com/iknowl97/iknowl_gemini_TG_bot) |
+- 🔹 Managed 70+ physical servers & 320+ VMs.
+- 🔹 Administered Windows/Linux servers & network equipment.
+- 🔹 Key role in migration to UGT Cloud.
 
 ---
 
-## Certifications
+## 🚀 Featured Projects
 
-| Certification                                | Issuing Body                          |
-| :------------------------------------------- | :------------------------------------ |
-| Georgian Europian Academy                    | Georgian Europian Academy             |
-| Scientific Cyber Security Association - SCSA | Scientific Cyber Security Association |
-| Intuitive Products by Imitating Physicality  | N/A                                   |
-
----
-
-## Education
-
-- **Georgian European Academy** – Tbilisi, Georgia
-  Certificate in IT Technologies and Windows System Management | 2012 – 2013
-- **37 Public School** – Tbilisi, Georgia
-  High School Diploma | 2003 – 2012
+| Project                                                               | Description                                    | Tech                                                                               |
+| :-------------------------------------------------------------------- | :--------------------------------------------- | :--------------------------------------------------------------------------------- |
+| **[AI Travel Agent](https://iknowl97.github.io/AI-Travel-Agent/)**    | An AI-powered travel assistant interface.      | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)      |
+| **[n8n on Render](https://github.com/iknowl97/n8n-render)**           | Guide and scripts for deploying n8n on Render. | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white) |
+| **[Gemini TG Bot](https://github.com/iknowl97/iknowl_gemini_TG_bot)** | Telegram bot integrated with Google Gemini.    | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
 ---
 
-## Languages
+## 📈 GitHub Stats
 
-- Georgian – Native
-- Russian – Fluent
-- English – Professional Working Proficiency
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iknowl97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Giorgi's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+</div>
 ---
 
-## Fun Fact
+## 🧠 AI Philosophy
 
-⚡ Fun fact: My IT journey started at just 14, and by 15, I was already multitasking client issues with critical systems running, sometimes with multiple user sessions and headsets at once! Some say my real education came from 'eating the whole Youtube'! 😂
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0e75b6,6b2c91&height=280&section=header&text=Giorgi%20Amiridze&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20IT%20Ninja%20%F0%9F%A5%B7&descAlignY=55&descAlign=50" alt="Giorgi Amiridze Header" width="100%"/>
+</div>
 
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Senior+System+Admin+%26+IT+Lead;Driving+Innovation+through+AI;Strategic+Automation+Expert;Based+in+Tbilisi%2C+Georgia+%F0%9F%87%AC%F0%9F%87%EA" alt="Typing SVG" />
+  </a>
+</div>
 
-<details>
-<summary>GitHub Stats & Activity</summary>
+<br/>
 
-<p align="center">
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=iknowl97&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=iknowl97&show_icons=true&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=iknowl97&show_icons=true&theme=transparent" alt="Giorgi Amiridze's GitHub Stats" />
-</picture>
+<div align="center">
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=181717)](https://t.me/iknowl1)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=181717)](https://wa.me/995577250239)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=181717)](https://www.linkedin.com/in/gioamiridze/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=181717)](mailto:gioamiridze@live.com)
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=10&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=10&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" />
-</picture>
-</p>
+</div>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iknowl97&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-</details>
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=iknowl97&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <br/>
 
 ---
 
-## Personal Motivation
+## 👨‍💻 About Me
 
-I didn't go to a fancy university. My classroom was the office, my teachers were real-world problems, and my motivation came from seeing how my work made systems stronger, users happier, and companies more agile.
+<div align="center">
 
-This drive, especially with my growing passion for AI and automation, inspires me to create something useful, simple, and free for anyone who might benefit.
+> _"I didn't start from a management role or a well-equipped office; I started from cables, system errors, and troubleshooting."_
 
-[Back to Top](#hi-im-giorgi-amiridze-iknowl97)
+</div>
 
-Thanks for stopping by! 😊
+My name is **Giorgi Amiridze**, and I've dedicated over **12 years** to IT — not just as a profession, but as a mission. My journey began in **Tbilisi, Georgia**, at the age of 14, diving headfirst into the world of software and hardware at **FINA**.
+
+I specialize in **System Administration**, **IT Leadership**, and increasingly, **AI & Automation**. I believe in using technology to solve real-world problems, streamline workflows, and enhance human potential.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+| **Category**          | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🖥️ OS**             | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=101010) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white&color=101010) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=101010)                                                                                               |
+| **🗄️ Databases**      | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=101010) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=101010)                                                                                                                                                                                                        |
+| **🌐 Web Servers**    | ![IIS](https://img.shields.io/badge/IIS-000000?style=for-the-badge&logo=iis&logoColor=white&color=101010) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white&color=101010)                                                                                                                                                                                                                                                        |
+| **💻 Languages**      | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=101010) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&color=101010) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&color=101010) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=101010) |
+| **☁️ Cloud**          | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=101010) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=101010) ![UGT Cloud](https://img.shields.io/badge/UGT%20Cloud-0e75b6?style=for-the-badge&logo=cloud&logoColor=white&color=101010)                                                                                                             |
+| **🤖 AI & Auto**      | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&color=101010) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&color=101010) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=101010)                                                                                                                      |
+| **🐳 Virtualization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=101010) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white&color=101010) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=microsoft&logoColor=white&color=101010)                                                                                                                   |
+| **🛡️ Sec & Mgmt**     | ![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=guard&logoColor=white&color=101010) ![Network](https://img.shields.io/badge/Network-000000?style=for-the-badge&logo=cisco&logoColor=white&color=101010) ![Project Mgmt](https://img.shields.io/badge/Project%20Mgmt-0052CC?style=for-the-badge&logo=jira&logoColor=white&color=101010)                                                                                                         |
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### **IT Manager / System Administrator**
+
+**Ltd. FINA** | _2013 – Present_
+
+> _Leading IT operations and infrastructure strategy._
+
+- 🔹 Lead system administration (Windows Server, SQL, IIS).
+- 🔹 Manage proprietary Windows Forms applications.
+- 🔹 Supervise IT support team & office infrastructure.
+
+<br/>
+
+### **System and Network Administrator**
+
+**Ltd. Datacenter** | _2015 – 2023_
+
+> _Managed large-scale server environments._
+
+- 🔹 Managed 70+ physical servers & 320+ VMs.
+- 🔹 Administered Windows/Linux servers & network equipment.
+- 🔹 Key role in migration to UGT Cloud.
+
+---
+
+## 🔭 Current Focus & Explorations
+
+Beyond daily operations, I am deeply involved in **AI & Automation**:
+
+- 🤖 **Local AI**: Experimenting with **LM Studio, Ollama, and Hugging Face**.
+- 🔄 **Workflow Automation**: Building complex **n8n** workflows for IT support.
+- 🧠 **Agentic AI**: Studying **Autogen, CrewAI, and LangChain**.
+- ☁️ **Cloud Optimization**: Exploring self-hosted solutions.
+
+> _I built a personal IT Sysadmin assistant for my team that monitors servers and suggests AI-driven actions._
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                                               | Description                                    | Tech                                                                                                 |
+| :-------------------------------------------------------------------- | :--------------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| **[AI Travel Agent](https://iknowl97.github.io/AI-Travel-Agent/)**    | An AI-powered travel assistant interface.      | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)      |
+| **[n8n on Render](https://github.com/iknowl97/n8n-render)**           | Guide and scripts for deploying n8n on Render. | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square) |
+| **[Gemini TG Bot](https://github.com/iknowl97/iknowl_gemini_TG_bot)** | Telegram bot integrated with Google Gemini.    | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iknowl97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Giorgi's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+</div>
+
+---
+
+## 🧠 AI Philosophy
+
+<div align="center">
+
+I see AI not as a replacement, but as a **powerful ally**. My focus is on:
+
+**Vibe-Coding** • **Prompt Engineering** • **Agentic Workflows**
+
+> _"My classroom was the office, my teachers were real-world problems."_
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+| **Education**                                                                               | **Certifications**                                             |
+| :------------------------------------------------------------------------------------------ | :------------------------------------------------------------- |
+| **Georgian European Academy**<br/>_IT Technologies & Windows System Management_ (2012-2013) | **Georgian European Academy**<br/>_IT Technologies_            |
+| **37 Public School**<br/>_High School Diploma_ (2003-2012)                                  | **Scientific Cyber Security Association**<br/>_SCSA Certified_ |
+|                                                                                             | **Intuitive Products**<br/>_Imitating Physicality_             |
+
+</div>
+
+---
+
+## 🌍 Languages
+
+<div align="center">
+  
+  ![Georgian](https://img.shields.io/badge/Georgian-Native-0078D6?style=for-the-badge&color=101010)
+  ![Russian](https://img.shields.io/badge/Russian-Fluent-FCC624?style=for-the-badge&color=101010)
+  ![English](https://img.shields.io/badge/English-Professional-239120?style=for-the-badge&color=101010)
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+> _My IT journey started at just **14**. By 15, I was multitasking client issues with critical systems running, sometimes with multiple user sessions and headsets at once! Some say my real education came from 'eating the whole Youtube'! 😂_
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0e75b6,6b2c91&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+</div>
