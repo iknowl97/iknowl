@@ -82,6 +82,10 @@ Intelligent Telegram bot powered by Google Gemini AI for automated conversations
 <img src="https://github-readme-stats.vercel.app/api?username=iknowl97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
 
+<!-- GitHub Language Statistics -->
+<img src="https://raw.githubusercontent.com/iknowl97/iknowl97/refs/heads/output/languages-repo.svg" alt="Languages by Repository">
+<img src="https://raw.githubusercontent.com/iknowl97/iknowl97/refs/heads/output/languages-commit.svg" alt="Languages by Commit">
+
 ---
 
 ## 🎓 Education & Certifications
