@@ -1,5 +1,3 @@
-<a name="top"></a>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9A3412&height=180&section=header&text=Hi%20there&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 
 <div align="center">
@@ -28,19 +26,17 @@ iknowl97\giorgi.amiridze — Senior SysAdmin, IT Lead & AI tinkerer
 
 ## 📑 Table of Contents
 
-- [👨‍💻 About Me](#about-me)
-- [🛠️ Tech Stack](#tech-stack)
-- [🚀 Featured Projects](#featured-projects)
-- [📊 GitHub Statistics](#github-statistics)
-- [🎓 Education & Certifications](#education--certifications)
-- [🌍 Languages](#languages)
-- [📬 Contact](#contact)
+- [🧑 About Me](#-about-me)
+- [🔧 Tech Stack](#-tech-stack)
+- [🚀 Featured Projects](#-featured-projects)
+- [📊 GitHub Statistics](#-github-statistics)
+- [🎓 Education & Certifications](#-education--certifications)
+- [🌍 Languages](#-languages)
+- [📬 Contact](#-contact)
 
 ---
 
-<a name="about-me"></a>
-
-## 👨‍💻 About Me
+## 🧑 About Me
 
 I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ years** of experience — from troubleshooting cables and system errors to leading IT teams and implementing AI-driven workflows.
 
@@ -68,9 +64,7 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 ---
 
-<a name="tech-stack"></a>
-
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 <div align="center">
 
@@ -123,8 +117,6 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 ---
 
-<a name="featured-projects"></a>
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -150,8 +142,6 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 </div>
 
 ---
-
-<a name="github-statistics"></a>
 
 ## 📊 GitHub Statistics
 
@@ -194,8 +184,6 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 ---
 
-<a name="education--certifications"></a>
-
 ## 🎓 Education & Certifications
 
 | 🎓 Institution | 📚 Program |
@@ -205,8 +193,6 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 | **Intuitive Products** | Imitating Physicality Certification |
 
 ---
-
-<a name="languages"></a>
 
 ## 🌍 Languages
 
@@ -219,8 +205,6 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 </div>
 
 ---
-
-<a name="contact"></a>
 
 ## 📬 Contact
 
@@ -243,7 +227,7 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 <div align="center">
 
-<a href="#top" title="Back to top">![Back to top](https://img.shields.io/badge/Back_to_top-9A3412?style=for-the-badge&logo=github&logoColor=white "Back to top")</a>
+<a href="#-table-of-contents" title="Back to top">![Back to top](https://img.shields.io/badge/Back_to_top-9A3412?style=for-the-badge&logo=github&logoColor=white "Back to top")</a>
 
 </div>
 
