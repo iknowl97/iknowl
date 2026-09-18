@@ -10,7 +10,11 @@
   • Widgets: only ones verified returning REAL data (2026-09).
 ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9A3412&height=180&section=header&text=Hey%2C+I%27m+Giorgi+%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9A3412&height=180&section=header&text=Hey%2C+I%27m+Giorgi+%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7ED,100:FDBA74&height=180&section=header&text=Hey%2C+I%27m+Giorgi+%F0%9F%91%8B&fontSize=42&fontColor=9A3412&animation=fadeIn&fontAlignY=38" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9A3412&height=180&section=header&text=Hey%2C+I%27m+Giorgi+%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+</picture>
 
 <div align="center">
 
@@ -111,7 +115,11 @@ Most of my tinkering lives here now — practical AI for real IT pain, not demos
 
 <div align="center">
 
-<a href="https://skillicons.dev" title="12 core tools I work with"><img src="https://skillicons.dev/icons?i=windows,linux,azure,aws,docker,py,powershell,bash,cs,postgres,nginx,tensorflow&theme=dark" alt="My Skills: Windows, Linux, Azure, AWS, Docker, Python, PowerShell, Bash, C#, PostgreSQL, NGINX, TensorFlow" /></a>
+<a href="https://skillicons.dev" title="12 core tools I work with"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows,linux,azure,aws,docker,py,powershell,bash,cs,postgres,nginx,tensorflow&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows,linux,azure,aws,docker,py,powershell,bash,cs,postgres,nginx,tensorflow&theme=light" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,azure,aws,docker,py,powershell,bash,cs,postgres,nginx,tensorflow&theme=dark" alt="My Skills: Windows, Linux, Azure, AWS, Docker, Python, PowerShell, Bash, C#, PostgreSQL, NGINX, TensorFlow" />
+</picture></a>
 
 </div>
 
@@ -171,10 +179,10 @@ Most of my tinkering lives here now — practical AI for real IT pain, not demos
 
 <div align="center">
 
-<a href="https://github.com/iknowl97/ai-chatbot-js-chroma" title="Open repository"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=ai-chatbot-js-chroma&hide_border=true&bg_color=0D1117&title_color=F97316" alt="ai-chatbot-js-chroma" title="RAG Chatbot repository" /></a>
-<a href="https://github.com/iknowl97/n8n-render-clean-fork" title="Open repository"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=n8n-render-clean-fork&hide_border=true&bg_color=0D1117&title_color=F97316" alt="n8n-render-clean-fork" title="n8n on Render repository" /></a>
+<a href="https://github.com/iknowl97/ai-chatbot-js-chroma" title="Open repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=ai-chatbot-js-chroma&hide_border=true&bg_color=0D1117&title_color=F97316" /><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=ai-chatbot-js-chroma&hide_border=true&bg_color=FFFFFF&title_color=C2410C" /><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=ai-chatbot-js-chroma&hide_border=true&bg_color=0D1117&title_color=F97316" alt="ai-chatbot-js-chroma" title="RAG Chatbot repository" /></picture></a>
+<a href="https://github.com/iknowl97/n8n-render-clean-fork" title="Open repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=n8n-render-clean-fork&hide_border=true&bg_color=0D1117&title_color=F97316" /><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=n8n-render-clean-fork&hide_border=true&bg_color=FFFFFF&title_color=C2410C" /><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=n8n-render-clean-fork&hide_border=true&bg_color=0D1117&title_color=F97316" alt="n8n-render-clean-fork" title="n8n on Render repository" /></picture></a>
 <br>
-<a href="https://github.com/iknowl97/iknowl97.github.io" title="Open repository"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=iknowl97.github.io&hide_border=true&bg_color=0D1117&title_color=F97316" alt="iknowl97.github.io" title="AI Travel Agent repository" /></a>
+<a href="https://github.com/iknowl97/iknowl97.github.io" title="Open repository"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=iknowl97.github.io&hide_border=true&bg_color=0D1117&title_color=F97316" /><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=iknowl97.github.io&hide_border=true&bg_color=FFFFFF&title_color=C2410C" /><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=iknowl97.github.io&hide_border=true&bg_color=0D1117&title_color=F97316" alt="iknowl97.github.io" title="AI Travel Agent repository" /></picture></a>
 
 | Project | What it is | Links |
 | ------- | ---------- | ----- |
@@ -205,10 +213,18 @@ Most of my tinkering lives here now — practical AI for real IT pain, not demos
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=iknowl97&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=FFFFFF" alt="Giorgi's GitHub Stats" title="My GitHub stats" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=iknowl97&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=FFFFFF" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=iknowl97&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C2410C&icon_color=C2410C&text_color=24292F" />
+        <img src="https://github-stats-extended.vercel.app/api?username=iknowl97&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=FFFFFF" alt="Giorgi's GitHub Stats" title="My GitHub stats" />
+      </picture>
     </td>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F97316" alt="Most Used Languages" title="My most used languages" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F97316" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=C2410C" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F97316" alt="Most Used Languages" title="My most used languages" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -256,4 +272,8 @@ Most of my tinkering lives here now — practical AI for real IT pain, not demos
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,100:0D1117&height=120&section=footer" alt="footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,100:0D1117&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FDBA74,100:FFF7ED&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,100:0D1117&height=120&section=footer" alt="footer" />
+</picture>
