@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg" title="Typing animation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Senior+System+Administrator+%7C+IT+Lead+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Cloud+Infrastructure+%26+DevOps+%E2%98%81%EF%B8%8F;12%2B+years+in+IT%2C+started+at+14+%E2%9A%A1" alt="Senior System Administrator | IT Lead | AI and Automation enthusiast" /></a>
+<a href="https://git.io/typing-svg" title="Typing animation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Senior+System+Administrator+%7C+IT+Lead+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Cloud+Infrastructure+%26+DevOps+%E2%98%81%EF%B8%8F;12%2B+years+in+IT%2C+started+at+14+%E2%9A%A1;Open+to+collaboration+%F0%9F%A4%9D" alt="Senior System Administrator | IT Lead | AI and Automation enthusiast" /></a>
 
 <a href="https://t.me/iknowl1" title="Chat with me on Telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://wa.me/995577250239" title="Chat with me on WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -231,6 +231,24 @@ Most of my tinkering lives here now — practical AI for real IT pain, not demos
 
 <a href="https://github.com/iknowl97" title="Open my GitHub profile"><img width="100%" src="https://ghchart.rshah.org/F97316/iknowl97" alt="Contribution Chart" title="My contributions in the last year" /></a>
 
+<!-- 🐍 Animated contribution snake, regenerated every 6h by .github/workflows/snake.yml
+     onto the `output` branch. First run starts on push — image appears in ~2 min. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknowl97/iknowl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iknowl97/iknowl/output/github-snake-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/iknowl97/iknowl/output/github-snake-dark.svg" alt="Contribution snake animation" title="Watch the snake eat my contributions" />
+</picture>
+
+<!-- 📊 WakaTime coding stats — setup required before uncommenting:
+     1. Create an account at https://wakatime.com and install the editor plugin
+     2. Code for a day so stats exist (empty profile renders "not found")
+     3. Uncomment the block below. Mirror used: official instance is down (503). -->
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=iknowl97&hide_border=true&bg_color=0D1117&title_color=F97316" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=iknowl97&hide_border=true&bg_color=FFFFFF&title_color=C2410C" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=iknowl97&hide_border=true&bg_color=0D1117&title_color=F97316" alt="WakaTime coding stats" />
+</picture> -->
+
 </div>
 
 ---
@@ -273,7 +291,7 @@ Most of my tinkering lives here now — practical AI for real IT pain, not demos
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,100:0D1117&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FDBA74,100:FFF7ED&height=120&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,100:0D1117&height=120&section=footer" alt="footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,100:0D1117&height=120&section=footer&text=Let%27s%20build%20something%20together&fontSize=20&fontColor=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FDBA74,100:FFF7ED&height=120&section=footer&text=Let%27s%20build%20something%20together&fontSize=20&fontColor=9A3412" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,100:0D1117&height=120&section=footer&text=Let%27s%20build%20something%20together&fontSize=20&fontColor=ffffff" alt="footer" />
 </picture>
