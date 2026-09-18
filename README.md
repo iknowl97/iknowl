@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3B3B7A&height=180&section=header&text=Hi%20there&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9A3412&height=180&section=header&text=Hi%20there&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Senior+System+Administrator+%7C+IT+Lead+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Cloud+Infrastructure+%26+DevOps+%E2%98%81%EF%B8%8F;12%2B+years+in+IT%2C+started+at+14+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Senior+System+Administrator+%7C+IT+Lead+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Cloud+Infrastructure+%26+DevOps+%E2%98%81%EF%B8%8F;12%2B+years+in+IT%2C+started+at+14+%E2%9A%A1)](https://git.io/typing-svg)
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iknowl1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/995577250239)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gioamiridze/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gioamiridze@live.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iknowl1 "Chat with me on Telegram")
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/995577250239 "Chat with me on WhatsApp")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gioamiridze/ "Connect on LinkedIn")
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gioamiridze@live.com "Send me an email")
 
 **Senior System Administrator & IT Lead** from Tbilisi, Georgia 🇬🇪
 
@@ -61,7 +61,7 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,azure,aws,docker,py,powershell,bash,cs,postgres,nginx,tensorflow&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,azure,aws,docker,py,powershell,bash,cs,postgres,nginx,tensorflow&theme=dark "12 core tools I work with")](https://skillicons.dev)
 
 </div>
 
@@ -116,14 +116,14 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 | Project | What it is | Links |
 | ------- | ---------- | ----- |
-| 🧳 **AI Travel Agent** | AI-powered travel assistant interface built with modern web tech | [🌐 Live](https://iknowl97.github.io/) · [💻 Code](https://github.com/iknowl97/iknowl97.github.io) |
-| 🤖 **RAG Chatbot** | Simple RAG chatbot with JS UI that you can put on any webpage (Python) | [💻 Code](https://github.com/iknowl97/ai-chatbot-js-chroma) |
-| ⚙️ **n8n on Render** | Deploying n8n on Render with Docker + Persistent Disk + Postgres DB | [💻 Code](https://github.com/iknowl97/n8n-render-clean-fork) |
-| 📚 **AI Pulse Training** | AI training materials and resources | [🌐 Live](https://coinmania-ai-pulse-training.vercel.app/) · [💻 Code](https://github.com/iknowl97/Coinmania_AI_Pulse_Training) |
+| 🧳 **AI Travel Agent** | AI-powered travel assistant interface built with modern web tech | [🌐 Live](https://iknowl97.github.io/ "Open live demo") · [💻 Code](https://github.com/iknowl97/iknowl97.github.io "Open repository") |
+| 🤖 **RAG Chatbot** | Simple RAG chatbot with JS UI that you can put on any webpage (Python) | [💻 Code](https://github.com/iknowl97/ai-chatbot-js-chroma "Open repository") |
+| ⚙️ **n8n on Render** | Deploying n8n on Render with Docker + Persistent Disk + Postgres DB | [💻 Code](https://github.com/iknowl97/n8n-render-clean-fork "Open repository") |
+| 📚 **AI Pulse Training** | AI training materials and resources | [🌐 Live](https://coinmania-ai-pulse-training.vercel.app/ "Open live demo") · [💻 Code](https://github.com/iknowl97/Coinmania_AI_Pulse_Training "Open repository") |
 
-![Stars](https://img.shields.io/github/stars/iknowl97/ai-chatbot-js-chroma?style=flat-square&label=rag-chatbot%20stars)
-![Stars](https://img.shields.io/github/stars/iknowl97/n8n-render-clean-fork?style=flat-square&label=n8n-render%20stars)
-![Last commit](https://img.shields.io/github/last-commit/iknowl97/Coinmania_AI_Pulse_Training?style=flat-square&label=training%20updated)
+![Stars](https://img.shields.io/github/stars/iknowl97/ai-chatbot-js-chroma?style=flat-square&label=rag-chatbot%20stars "Stars on RAG Chatbot")
+![Stars](https://img.shields.io/github/stars/iknowl97/n8n-render-clean-fork?style=flat-square&label=n8n-render%20stars "Stars on n8n on Render")
+![Last commit](https://img.shields.io/github/last-commit/iknowl97/Coinmania_AI_Pulse_Training?style=flat-square&label=training%20updated "Last update of AI Pulse Training")
 
 </div>
 
@@ -137,11 +137,11 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
      removed — their free backends are currently failing (503 / API errors).
      Chart + shields below are verified working. -->
 
-![Followers](https://img.shields.io/github/followers/iknowl97?style=for-the-badge&logo=github&logoColor=white&color=3B3B7A&label=Followers)
+[![Followers](https://img.shields.io/github/followers/iknowl97?style=for-the-badge&logo=github&logoColor=white&color=F97316&label=Followers "See who follows me")](https://github.com/iknowl97?tab=followers "See who follows me")
 
 <br>
 
-<img width="100%" src="https://ghchart.rshah.org/0D1117/iknowl97" alt="Contribution Chart" />
+<a href="https://github.com/iknowl97" title="Open my GitHub profile"><img width="100%" src="https://ghchart.rshah.org/F97316/iknowl97" alt="Contribution Chart" title="My contributions in the last year" /></a>
 
 </div>
 
@@ -161,9 +161,9 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 <div align="center">
 
-![Georgian](https://img.shields.io/badge/Georgian-Native-3B3B7A?style=for-the-badge)
-![Russian](https://img.shields.io/badge/Russian-Fluent-3B3B7A?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Professional-3B3B7A?style=for-the-badge)
+![Georgian](https://img.shields.io/badge/Georgian-Native-9A3412?style=for-the-badge)
+![Russian](https://img.shields.io/badge/Russian-Fluent-9A3412?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Professional-9A3412?style=for-the-badge)
 
 </div>
 
@@ -177,15 +177,15 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 📫 Reach me anywhere below — I usually reply within a day.
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iknowl1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/995577250239)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gioamiridze/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gioamiridze@live.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iknowl1 "Chat with me on Telegram")
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/995577250239 "Chat with me on WhatsApp")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gioamiridze/ "Connect on LinkedIn")
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gioamiridze@live.com "Send me an email")
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=iknowl97&label=Profile%20Views&color=3B3B7A&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=iknowl97&label=Profile%20Views&color=F97316&style=flat-square "Total profile views")
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B3B7A,100:0D1117&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,100:0D1117&height=120&section=footer" alt="footer" />
