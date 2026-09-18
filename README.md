@@ -26,13 +26,18 @@ iknowl97\giorgi.amiridze — Senior SysAdmin, IT Lead & AI tinkerer
 
 ## 📑 Table of Contents
 
-- [🧑 About Me](#-about-me)
-- [🔧 Tech Stack](#-tech-stack)
-- [🚀 Featured Projects](#-featured-projects)
-- [📊 GitHub Statistics](#-github-statistics)
-- [🎓 Education & Certifications](#-education--certifications)
-- [🌍 Languages](#-languages)
-- [📬 Contact](#-contact)
+<div align="center">
+
+🧑 [![About Me](https://img.shields.io/badge/About_Me-F97316?style=for-the-badge&labelColor=0D1117 "Jump to About Me")](#-about-me "Jump to About Me")
+🔧 [![Tech Stack](https://img.shields.io/badge/Tech_Stack-F97316?style=for-the-badge&labelColor=0D1117 "Jump to Tech Stack")](#-tech-stack "Jump to Tech Stack")
+🚀 [![Projects](https://img.shields.io/badge/Projects-F97316?style=for-the-badge&labelColor=0D1117 "Jump to Featured Projects")](#-featured-projects "Jump to Featured Projects")
+📊 [![Statistics](https://img.shields.io/badge/Statistics-F97316?style=for-the-badge&labelColor=0D1117 "Jump to GitHub Statistics")](#-github-statistics "Jump to GitHub Statistics")
+<br>
+🎓 [![Education](https://img.shields.io/badge/Education-F97316?style=for-the-badge&labelColor=0D1117 "Jump to Education")](#-education--certifications "Jump to Education & Certifications")
+🌍 [![Languages](https://img.shields.io/badge/Languages-F97316?style=for-the-badge&labelColor=0D1117 "Jump to Languages")](#-languages "Jump to Languages")
+📬 [![Contact](https://img.shields.io/badge/Contact-F97316?style=for-the-badge&labelColor=0D1117 "Jump to Contact")](#-contact "Jump to Contact")
+
+</div>
 
 ---
 
