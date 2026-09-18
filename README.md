@@ -38,6 +38,8 @@ iknowl97\giorgi.amiridze — Senior SysAdmin, IT Lead & AI tinkerer
 
 ---
 
+<a name="about-me"></a>
+
 ## 👨‍💻 About Me
 
 I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ years** of experience — from troubleshooting cables and system errors to leading IT teams and implementing AI-driven workflows.
@@ -65,6 +67,8 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 </details>
 
 ---
+
+<a name="tech-stack"></a>
 
 ## 🛠️ Tech Stack
 
@@ -119,6 +123,8 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 ---
 
+<a name="featured-projects"></a>
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -144,6 +150,8 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 </div>
 
 ---
+
+<a name="github-statistics"></a>
 
 ## 📊 GitHub Statistics
 
@@ -186,6 +194,8 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 ---
 
+<a name="education--certifications"></a>
+
 ## 🎓 Education & Certifications
 
 | 🎓 Institution | 📚 Program |
@@ -195,6 +205,8 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 | **Intuitive Products** | Imitating Physicality Certification |
 
 ---
+
+<a name="languages"></a>
 
 ## 🌍 Languages
 
@@ -207,6 +219,8 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 </div>
 
 ---
+
+<a name="contact"></a>
 
 ## 📬 Contact
 
