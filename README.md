@@ -133,14 +133,13 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 <div align="center">
 
-<!-- NOTE: github-readme-stats / activity-graph removed — their public instances are down (503/402).
-     Streak + contribution chart + shields below are verified working replacements. -->
+<!-- NOTE: API-backed widgets (github-readme-stats, streak-stats, activity-graph)
+     removed — their free backends are currently failing (503 / API errors).
+     Chart + shields below are verified working. -->
 
 ![Followers](https://img.shields.io/github/followers/iknowl97?style=for-the-badge&logo=github&logoColor=white&color=3B3B7A&label=Followers)
 
 <br>
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=iknowl97&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <img width="100%" src="https://ghchart.rshah.org/0D1117/iknowl97" alt="Contribution Chart" />
 
