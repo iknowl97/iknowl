@@ -36,7 +36,7 @@
 <div align="center">
 
 👋 <a href="#-hey-im-giorgi" title="Jump to intro"><img src="https://img.shields.io/badge/Hello-F97316?style=for-the-badge&labelColor=0D1117" alt="Hello" /></a>
-🗺️ <a href="#-my-journey" title="Jump to My Journey"><img src="https://img.shields.io/badge/Journey-F97316?style=for-the-badge&labelColor=0D1117" alt="Journey" /></a>
+🧭 <a href="#-my-journey" title="Jump to My Journey"><img src="https://img.shields.io/badge/Journey-F97316?style=for-the-badge&labelColor=0D1117" alt="Journey" /></a>
 🤖 <a href="#-ai--automation" title="Jump to AI and Automation"><img src="https://img.shields.io/badge/AI_Lab-F97316?style=for-the-badge&labelColor=0D1117" alt="AI Lab" /></a>
 🔧 <a href="#-tech-stack" title="Jump to Tech Stack"><img src="https://img.shields.io/badge/Stack-F97316?style=for-the-badge&labelColor=0D1117" alt="Stack" /></a>
 <br>
@@ -73,7 +73,7 @@ Just Giorgi — a sysadmin from Tbilisi who never really left the server room, m
 
 ---
 
-## 🗺️ My Journey
+## 🧭 My Journey
 
 | When | Milestone |
 | ---- | --------- |
