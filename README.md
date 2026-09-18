@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9A3412&height=180&section=header&text=Hi%20there&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 
 <div align="center">
@@ -14,6 +16,11 @@
 > _"I didn't start from a management role or a well-equipped office; I started from cables, system errors, and troubleshooting."_
 
 </div>
+
+```powershell
+PS C:\Users\Giorgi> whoami
+iknowl97\giorgi.amiridze — Senior SysAdmin, IT Lead & AI tinkerer
+```
 
 ---
 
@@ -121,9 +128,9 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 | ⚙️ **n8n on Render** | Deploying n8n on Render with Docker + Persistent Disk + Postgres DB | [💻 Code](https://github.com/iknowl97/n8n-render-clean-fork "Open repository") |
 | 📚 **AI Pulse Training** | AI training materials and resources | [🌐 Live](https://coinmania-ai-pulse-training.vercel.app/ "Open live demo") · [💻 Code](https://github.com/iknowl97/Coinmania_AI_Pulse_Training "Open repository") |
 
-![Stars](https://img.shields.io/github/stars/iknowl97/ai-chatbot-js-chroma?style=flat-square&label=rag-chatbot%20stars "Stars on RAG Chatbot")
-![Stars](https://img.shields.io/github/stars/iknowl97/n8n-render-clean-fork?style=flat-square&label=n8n-render%20stars "Stars on n8n on Render")
-![Last commit](https://img.shields.io/github/last-commit/iknowl97/Coinmania_AI_Pulse_Training?style=flat-square&label=training%20updated "Last update of AI Pulse Training")
+![Stars](https://img.shields.io/github/stars/iknowl97/ai-chatbot-js-chroma?style=flat-square&labelColor=0D1117&label=rag-chatbot%20stars "Stars on RAG Chatbot")
+![Stars](https://img.shields.io/github/stars/iknowl97/n8n-render-clean-fork?style=flat-square&labelColor=0D1117&label=n8n-render%20stars "Stars on n8n on Render")
+![Last commit](https://img.shields.io/github/last-commit/iknowl97/Coinmania_AI_Pulse_Training?style=flat-square&labelColor=0D1117&label=training%20updated "Last update of AI Pulse Training")
 
 </div>
 
@@ -133,13 +140,36 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 <div align="center">
 
-<!-- NOTE: API-backed widgets (github-readme-stats, streak-stats, activity-graph)
-     removed — their free backends are currently failing (503 / API errors).
-     Chart + shields below are verified working. -->
+<!-- Stats via the github-stats-extended mirror — the official
+     github-readme-stats instance returns 503 (verified 2026-09-18).
+     Streak / activity-graph / trophy widgets removed: their backends
+     return error images (402 / API failures). -->
 
-[![Followers](https://img.shields.io/github/followers/iknowl97?style=for-the-badge&logo=github&logoColor=white&color=F97316&label=Followers "See who follows me")](https://github.com/iknowl97?tab=followers "See who follows me")
+[![Followers](https://img.shields.io/github/followers/iknowl97?style=for-the-badge&logo=github&logoColor=white&color=F97316&labelColor=0D1117&label=Followers "See who follows me")](https://github.com/iknowl97?tab=followers "See who follows me")
 
 <br>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=iknowl97&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=FFFFFF" alt="Giorgi's GitHub Stats" title="My GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iknowl97&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F97316" alt="Most Used Languages" title="My most used languages" />
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/iknowl97/ai-chatbot-js-chroma" title="Open repository">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=ai-chatbot-js-chroma&hide_border=true&bg_color=0D1117&title_color=F97316" alt="ai-chatbot-js-chroma" title="RAG Chatbot repository" />
+</a>
+<a href="https://github.com/iknowl97/n8n-render-clean-fork" title="Open repository">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=n8n-render-clean-fork&hide_border=true&bg_color=0D1117&title_color=F97316" alt="n8n-render-clean-fork" title="n8n on Render repository" />
+</a>
+<br>
+<a href="https://github.com/iknowl97/iknowl97.github.io" title="Open repository">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=iknowl97&repo=iknowl97.github.io&hide_border=true&bg_color=0D1117&title_color=F97316" alt="iknowl97.github.io" title="AI Travel Agent repository" />
+</a>
 
 <a href="https://github.com/iknowl97" title="Open my GitHub profile"><img width="100%" src="https://ghchart.rshah.org/F97316/iknowl97" alt="Contribution Chart" title="My contributions in the last year" /></a>
 
@@ -161,9 +191,9 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 <div align="center">
 
-![Georgian](https://img.shields.io/badge/Georgian-Native-9A3412?style=for-the-badge)
-![Russian](https://img.shields.io/badge/Russian-Fluent-9A3412?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Professional-9A3412?style=for-the-badge)
+![Georgian](https://img.shields.io/badge/Georgian-Native-F97316?style=for-the-badge&labelColor=0D1117)
+![Russian](https://img.shields.io/badge/Russian-Fluent-F97316?style=for-the-badge&labelColor=0D1117)
+![English](https://img.shields.io/badge/English-Professional-F97316?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -185,6 +215,12 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iknowl97&label=Profile%20Views&color=F97316&style=flat-square "Total profile views")
+
+</div>
+
+<div align="center">
+
+<a href="#top" title="Back to top">![Back to top](https://img.shields.io/badge/Back_to_top-9A3412?style=for-the-badge&logo=github&logoColor=white "Back to top")</a>
 
 </div>
 
