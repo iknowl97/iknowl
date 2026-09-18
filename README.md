@@ -1,20 +1,16 @@
 <!-- ============================================================
-  iknowl97/iknowl — personal README (rebuilt from scratch)
-  Conventions — read before editing (learned the hard way):
+  iknowl97/iknowl — personal README (v2: personal brand edition)
+  Conventions (violating these breaks things on GitHub):
   • Headings: single-codepoint emoji only. ZWJ/VS16 sequences
-    (👨‍💻 🛠️) make GitHub generate anchors with INVISIBLE chars.
-  • TOC hrefs = GitHub slugs: lowercase, spaces → hyphens,
-    leading hyphen KEPT (e.g. #-about-me, #-education--certifications).
+    (👨‍💻 🛠️) produce anchors with INVISIBLE chars.
+  • Nav hrefs = GitHub slugs: lowercase, spaces → hyphens,
+    leading hyphen KEPT ("#-about-me"), "&" removed ("#-ai--automation").
+    Always re-verify against the live page after pushing.
   • Centered rows: pure HTML (<div align="center"> + <a><img>).
-    Markdown-in-div centers inconsistently across renderers.
-  • Widgets must return real data, not just HTTP 200 — an <img> can
-    hide an error SVG inside. Verified 2026-09: capsule-render,
-    typing-svg, skillicons, shields, komarev, ghchart, stats-extended.
-    Dead: official github-readme-stats (503), streak-stats (API error),
-    activity-graph (402), trophy (402), languages-*.svg (repo gone).
+  • Widgets: only ones verified returning REAL data (2026-09).
 ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9A3412&height=180&section=header&text=Hi%20there&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9A3412&height=180&section=header&text=Hey%2C+I%27m+Giorgi+%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 
 <div align="center">
 
@@ -25,7 +21,7 @@
 <a href="https://www.linkedin.com/in/gioamiridze/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:gioamiridze@live.com" title="Send me an email"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-**Senior System Administrator & IT Lead** from Tbilisi, Georgia 🇬🇪
+**Giorgi Amiridze** — I keep systems alive and teach machines to help 🤖
 
 📍 Tbilisi (UTC+4) · 💬 EN · KA · RU · ⚡ Replies within a day
 
@@ -39,44 +35,75 @@
 
 <div align="center">
 
-🧑 <a href="#-about-me" title="Jump to About Me"><img src="https://img.shields.io/badge/About_Me-F97316?style=for-the-badge&labelColor=0D1117" alt="About Me" /></a>
-🔧 <a href="#-tech-stack" title="Jump to Tech Stack"><img src="https://img.shields.io/badge/Tech_Stack-F97316?style=for-the-badge&labelColor=0D1117" alt="Tech Stack" /></a>
-🚀 <a href="#-featured-projects" title="Jump to Featured Projects"><img src="https://img.shields.io/badge/Projects-F97316?style=for-the-badge&labelColor=0D1117" alt="Projects" /></a>
-📊 <a href="#-github-statistics" title="Jump to GitHub Statistics"><img src="https://img.shields.io/badge/Statistics-F97316?style=for-the-badge&labelColor=0D1117" alt="Statistics" /></a>
+👋 <a href="#-hey-im-giorgi" title="Jump to intro"><img src="https://img.shields.io/badge/Hello-F97316?style=for-the-badge&labelColor=0D1117" alt="Hello" /></a>
+🗺️ <a href="#-my-journey" title="Jump to My Journey"><img src="https://img.shields.io/badge/Journey-F97316?style=for-the-badge&labelColor=0D1117" alt="Journey" /></a>
+🤖 <a href="#-ai--automation" title="Jump to AI and Automation"><img src="https://img.shields.io/badge/AI_Lab-F97316?style=for-the-badge&labelColor=0D1117" alt="AI Lab" /></a>
+🔧 <a href="#-tech-stack" title="Jump to Tech Stack"><img src="https://img.shields.io/badge/Stack-F97316?style=for-the-badge&labelColor=0D1117" alt="Stack" /></a>
 <br>
-🎓 <a href="#-education--certifications" title="Jump to Education and Certifications"><img src="https://img.shields.io/badge/Education-F97316?style=for-the-badge&labelColor=0D1117" alt="Education" /></a>
+🚀 <a href="#-what-ive-built" title="Jump to projects"><img src="https://img.shields.io/badge/Projects-F97316?style=for-the-badge&labelColor=0D1117" alt="Projects" /></a>
+📊 <a href="#-by-the-numbers" title="Jump to stats"><img src="https://img.shields.io/badge/Stats-F97316?style=for-the-badge&labelColor=0D1117" alt="Stats" /></a>
 🌍 <a href="#-languages" title="Jump to Languages"><img src="https://img.shields.io/badge/Languages-F97316?style=for-the-badge&labelColor=0D1117" alt="Languages" /></a>
-📬 <a href="#-contact" title="Jump to Contact"><img src="https://img.shields.io/badge/Contact-F97316?style=for-the-badge&labelColor=0D1117" alt="Contact" /></a>
+📫 <a href="#-lets-talk" title="Jump to contact"><img src="https://img.shields.io/badge/Contact-F97316?style=for-the-badge&labelColor=0D1117" alt="Contact" /></a>
 
 </div>
 
 ---
 
-## 🧑 About Me
+## 👋 Hey, I'm Giorgi
 
-I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ years** of experience — from troubleshooting cables and system errors to leading IT teams and implementing AI-driven workflows.
+Just Giorgi — a sysadmin from Tbilisi who never really left the server room, mentally at least. For **12+ years** I've been the person people call when "nothing works": from untangling cables at 14 to leading IT teams and, lately, teaching AI to handle the boring parts.
 
-- 🔭 Currently working as **IT Manager / System Administrator** at **Ltd. FINA** (2013 – Present)
-- 💼 Former **System and Network Administrator** at **Ltd. Datacenter** (2015 – 2023)
-- 🌱 Deep diving into **AI & Automation**, **Agentic Workflows**, and **Prompt Engineering**
-- 🤖 Building with **Local AI** (LM Studio, Ollama), **n8n workflows**, and custom IT assistants
-- 🎯 Specialized in **Windows Server**, **SQL Server**, **Cloud Infrastructure**, and **DevOps**
-- ⚡ Fun fact: started my IT journey at **14** — my real education came from "eating the whole YouTube" 😂
+- 🔭 **IT Manager / System Administrator** @ **Ltd. FINA** — keeping everything running since 2013
+- 🌐 Previously **System & Network Administrator** @ **Ltd. Datacenter** (2015–2023)
+- 🤖 These days you'll find me in my **AI lab** (more on that below 👇)
+- ⚡ Fun fact: my real degree is from "eating the whole YouTube" 😂
 
 <details>
 <summary><b>🇬🇪 ქართული ვერსია — დააწკაპუნე გასაშლელად</b></summary>
 <br>
 
-მე ვარ **გიორგი ამირიძე**, Senior System Administrator და IT Lead თბილისიდან 🇬🇪. IT-ში **12+ წლიანი** გამოცდილებით — კაბელების და სისტემური შეცდომების მოგვარებიდან IT გუნდების ხელმძღვანელობამდე და AI-ზე დაფუძნებული სამუშაო პროცესების დანერგვამდე.
+გამარჯობა! მე გიორგი ვარ — სისადმინი თბილისიდან, რომელიც გონებით ჯერ კიდევ სერვერულ ოთახშია. **12+ წელია** ვარ ადამიანი, რომელსაც ურეკავენ, როცა "არაფერი მუშაობს": 14 წლის ასაკში კაბელების ჩხაკუნიდან IT გუნდების ხელმძღვანელობამდე და, ბოლო დროს, AI-ის სწავლებამდე, რომ მოსაწყენი სამუშაო თვითონ აკეთოს.
 
-- 🔭 ამჟამად — **IT მენეჯერი / სისტემური ადმინისტრატორი** შპს **FINA-ში** (2013 – დღემდე)
-- 💼 ყოფილი **სისტემური და ქსელური ადმინისტრატორი** შპს **დეითაცენტრში** (2015 – 2023)
-- 🌱 აქტიურად ვსწავლობ **AI & Automation**, **Agentic Workflows** და **Prompt Engineering**
-- 🤖 ვაშენებ **ლოკალური AI** (LM Studio, Ollama), **n8n** ავტომატიზაციებით და custom IT ასისტენტებით
-- 🎯 სპეციალიზაცია: **Windows Server**, **SQL Server**, **Cloud Infrastructure**, **DevOps**
-- ⚡ Fun fact: IT გზა **14 წლის ასაკში** დავიწყე — "მთელი YouTube-ის შეჭმით" 😂
+- 🔭 **IT მენეჯერი / სისტემური ადმინისტრატორი** — შპს **FINA** (2013 – დღემდე)
+- 🌐 ყოფილი **სისტემური და ქსელური ადმინისტრატორი** — შპს **დეითაცენტრი** (2015–2023)
+- 🤖 ახლა ძირითადად ჩემს **AI ლაბორატორიაში** ვარ (დეტალები ქვემოთ 👇)
+- ⚡ Fun fact: ნამდვილი განათლება "მთელი YouTube-ის შეჭმით" მივიღე 😂
 
 </details>
+
+---
+
+## 🗺️ My Journey
+
+| When | Milestone |
+| ---- | --------- |
+| 🧒 ~2011 | Age 14: first PC builds, endless Windows reinstalls, YouTube university |
+| 🎓 2012–2013 | **Georgian European Academy** — IT Technologies & Windows System Management |
+| 💼 2013–Present | **IT Manager / System Administrator** @ **Ltd. FINA** |
+| 🌐 2015–2023 | **System & Network Administrator** @ **Ltd. Datacenter** |
+| 🛡️ Along the way | **SCSA** certified (Scientific Cyber Security Association) · Intuitive Products certification |
+| 🤖 Now | Full speed into **AI & Automation** — local LLMs, workflows, agents |
+
+---
+
+## 🤖 AI & Automation
+
+Most of my tinkering lives here now — practical AI for real IT pain, not demos for demos' sake:
+
+- 🖥️ **Local AI** — Ollama + LM Studio: private assistants that never leave my machine
+- ⚙️ **Workflows** — n8n automations connecting everything to everything
+- 💬 **Prompt engineering** & custom IT assistants for helpdesk reality
+- 🧪 **RAG experiments** — Chroma + LightRAG (see Projects 👇)
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0D1117" alt="Ollama" title="Ollama" />
+<img src="https://img.shields.io/badge/LM_Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=white&labelColor=0D1117" alt="LM Studio" title="LM Studio" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0D1117" alt="n8n" title="n8n" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" alt="OpenAI" title="OpenAI" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117" alt="LangChain" title="LangChain" />
+
+</div>
 
 ---
 
@@ -133,7 +160,7 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I've Built
 
 <!-- 🎬 Project previews (multimedia): drop a demo GIF/screenshot into docs/
      (e.g. docs/ai-travel-agent.gif — GIF < 2MB, ~800px wide works best)
@@ -164,7 +191,7 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 By the Numbers
 
 <div align="center">
 
@@ -192,16 +219,6 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 ---
 
-## 🎓 Education & Certifications
-
-| 🎓 Institution | 📚 Program |
-| -------------- | ---------- |
-| **Georgian European Academy** (2012–2013) | IT Technologies & Windows System Management |
-| **Scientific Cyber Security Association** | SCSA Certified |
-| **Intuitive Products** | Imitating Physicality Certification |
-
----
-
 ## 🌍 Languages
 
 <div align="center">
@@ -214,11 +231,11 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 
 ---
 
-## 📬 Contact
+## 📫 Let's Talk
 
 <div align="center">
 
-💼 Open to collaboration on **AI automation projects** and **cloud infrastructure solutions**
+💼 Open to collaboration on **AI automation projects** and **cloud infrastructure solutions** — or just a good geeky chat.
 
 📫 Reach me anywhere below — I usually reply within a day.
 
