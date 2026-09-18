@@ -17,25 +17,20 @@
 
 </div>
 
-```powershell
-PS C:\Users\Giorgi> whoami
-iknowl97\giorgi.amiridze — Senior SysAdmin, IT Lead & AI tinkerer
-```
-
 ---
 
 ## 📑 Table of Contents
 
 <div align="center">
 
-🧑 [![About Me](https://img.shields.io/badge/About_Me-F97316?style=for-the-badge&labelColor=0D1117 "Jump to About Me")](#-about-me "Jump to About Me")
-🔧 [![Tech Stack](https://img.shields.io/badge/Tech_Stack-F97316?style=for-the-badge&labelColor=0D1117 "Jump to Tech Stack")](#-tech-stack "Jump to Tech Stack")
-🚀 [![Projects](https://img.shields.io/badge/Projects-F97316?style=for-the-badge&labelColor=0D1117 "Jump to Featured Projects")](#-featured-projects "Jump to Featured Projects")
-📊 [![Statistics](https://img.shields.io/badge/Statistics-F97316?style=for-the-badge&labelColor=0D1117 "Jump to GitHub Statistics")](#-github-statistics "Jump to GitHub Statistics")
+🧑 <a href="#-about-me" title="Jump to About Me"><img src="https://img.shields.io/badge/About_Me-F97316?style=for-the-badge&labelColor=0D1117" alt="About Me" /></a>
+🔧 <a href="#-tech-stack" title="Jump to Tech Stack"><img src="https://img.shields.io/badge/Tech_Stack-F97316?style=for-the-badge&labelColor=0D1117" alt="Tech Stack" /></a>
+🚀 <a href="#-featured-projects" title="Jump to Featured Projects"><img src="https://img.shields.io/badge/Projects-F97316?style=for-the-badge&labelColor=0D1117" alt="Projects" /></a>
+📊 <a href="#-github-statistics" title="Jump to GitHub Statistics"><img src="https://img.shields.io/badge/Statistics-F97316?style=for-the-badge&labelColor=0D1117" alt="Statistics" /></a>
 <br>
-🎓 [![Education](https://img.shields.io/badge/Education-F97316?style=for-the-badge&labelColor=0D1117 "Jump to Education")](#-education--certifications "Jump to Education & Certifications")
-🌍 [![Languages](https://img.shields.io/badge/Languages-F97316?style=for-the-badge&labelColor=0D1117 "Jump to Languages")](#-languages "Jump to Languages")
-📬 [![Contact](https://img.shields.io/badge/Contact-F97316?style=for-the-badge&labelColor=0D1117 "Jump to Contact")](#-contact "Jump to Contact")
+🎓 <a href="#-education--certifications" title="Jump to Education &amp; Certifications"><img src="https://img.shields.io/badge/Education-F97316?style=for-the-badge&labelColor=0D1117" alt="Education" /></a>
+🌍 <a href="#-languages" title="Jump to Languages"><img src="https://img.shields.io/badge/Languages-F97316?style=for-the-badge&labelColor=0D1117" alt="Languages" /></a>
+📬 <a href="#-contact" title="Jump to Contact"><img src="https://img.shields.io/badge/Contact-F97316?style=for-the-badge&labelColor=0D1117" alt="Contact" /></a>
 
 </div>
 
