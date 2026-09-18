@@ -13,6 +13,8 @@
 
 **Senior System Administrator & IT Lead** from Tbilisi, Georgia 🇬🇪
 
+📍 Tbilisi (UTC+4) · 💬 EN · KA · RU · ⚡ Replies within a day
+
 > _"I didn't start from a management role or a well-equipped office; I started from cables, system errors, and troubleshooting."_
 
 </div>
@@ -120,6 +122,13 @@ I'm **Giorgi Amiridze**, a Senior System Administrator and IT Lead with **12+ ye
 ## 🚀 Featured Projects
 
 <div align="center">
+
+<!-- 🎬 Project previews (multimedia): drop a demo GIF/screenshot into docs/
+     (e.g. docs/ai-travel-agent.gif — GIF < 2MB, ~800px wide works best)
+     then uncomment its line below. Kept commented so nothing renders broken. -->
+<!-- <a href="https://iknowl97.github.io/" title="Open live demo"><img width="49%" src="docs/ai-travel-agent.gif" alt="AI Travel Agent demo" /></a> -->
+<!-- <a href="https://github.com/iknowl97/ai-chatbot-js-chroma" title="Open repository"><img width="49%" src="docs/rag-chatbot.gif" alt="RAG Chatbot demo" /></a> -->
+<!-- <a href="https://github.com/iknowl97/n8n-render-clean-fork" title="Open repository"><img width="49%" src="docs/n8n-render.png" alt="n8n on Render setup" /></a> -->
 
 | Project | What it is | Links |
 | ------- | ---------- | ----- |
